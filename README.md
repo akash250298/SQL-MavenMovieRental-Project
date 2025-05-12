@@ -2,7 +2,7 @@
 
 # 🎬 Maven Movies: Unlocking Insights for a Rental Business
 
-![Project Banner]([Code_outputs/Movie Rental Store.png](https://github.com/akash250298/SQL-MavenMovieRental-Project/blob/main/Code_outputs/Movie%20Rental%20Store.png))
+![Project Banner]((https://github.com/akash250298/SQL-MavenMovieRental-Project/blob/main/Code_outputs/Movie%20Rental%20Store.png))
 
 ## 📌 Project Overview
 

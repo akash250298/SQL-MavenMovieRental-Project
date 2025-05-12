@@ -2,7 +2,7 @@
 
 # 🎬 Maven Movies: Unlocking Insights for a Rental Business
 
-![Project Banner]Code_outputs/Movie Rental Store.png
+![Project Banner](Code_outputs/Movie Rental Store.png)
 
 ## 📌 Project Overview
 

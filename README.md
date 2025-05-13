@@ -2,7 +2,7 @@
 
 # 🎬 Maven Movies: Unlocking Insights for a Rental Business
 
-![Project Banner]Code_outputs/Movie Rental Store.png
+![Project Banner](Code_outputs/Movie Rental Store.png)
 
 ## 📌 Project Overview
 
@@ -77,7 +77,7 @@ Retrieve customer first name, last name, and email ID.
 ![Cheapest Rental](https://github.com/akash250298/SQL-MavenMovieRental-Project/blob/main/Code_outputs/CHEAPEST_RENTALS.png)
 
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate](https://(https://github.com/akash250298/SQL-MavenMovieRental-Project/blob/main/Code_outputs/TOTAL_NUMBER_OF_MOVIES.png)
+![Total Movies per RentalRate](https://github.com/akash250298/SQL-MavenMovieRental-Project/blob/main/Code_outputs/TOTAL_NUMBER_OF_MOVIES.png)
 
 ### 4. Most Common Movie Rating
 ![Rating Count](https://github.com/akash250298/SQL-MavenMovieRental-Project/blob/main/Code_outputs/RATING_WISE_COUNT.png)
